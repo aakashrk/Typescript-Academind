@@ -1,1 +1,3 @@
-console.log("Hello");
+//string
+var myName = 'max';
+myName = 28;

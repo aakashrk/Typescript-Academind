@@ -1,1 +1,3 @@
-console.log("Hello")
+//string
+let myName='max'
+// myName=28
